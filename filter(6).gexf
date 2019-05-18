@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-04-29">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="pageranks" title="PageRank" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="indegree" title="Входящая мощность" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="outdegree" title="Исходящая мощность" type="integer">
+        <default>0</default>
+      </attribute>
+      <attribute id="degree" title="Суммарная мощность" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="UC84eykTK1iL2nAa5BNhWSOQ" label="Aleksandr Luka">
+        <attvalues>
+          <attvalue for="eccentricity" value="5.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.4282846715328467"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.47861809402073974"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.03210384834872929"></attvalue>
+          <attvalue for="pageranks" value="6.737535779467235E-4"></attvalue>
+          <attvalue for="indegree" value="43"></attvalue>
+          <attvalue for="outdegree" value="218"></attvalue>
+          <attvalue for="degree" value="261"></attvalue>
+        </attvalues>
+        <viz:size value="5.2890654"></viz:size>
+        <viz:position x="800.4657" y="-1047.3411"></viz:position>
+        <viz:color r="185" g="185" b="70"></viz:color>
+      </node>
+      <node id="UC0rZkAUynskxxNDzAxCZrqQ" label="Успех Удача">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.37059845255013424"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4007030251384846"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.007329894092623674"></attvalue>
+          <attvalue for="pageranks" value="0.001306167616266761"></attvalue>
+          <attvalue for="indegree" value="60"></attvalue>
+          <attvalue for="outdegree" value="56"></attvalue>
+          <attvalue for="degree" value="116"></attvalue>
+        </attvalues>
+        <viz:size value="9.661782"></viz:size>
+        <viz:position x="811.4365" y="-1000.9008"></viz:position>
+        <viz:color r="243" g="243" b="11"></viz:color>
+      </node>
+      <node id="UCzwnCII6yZZrt1onGY1W0tw" label="Стоп ГАИ Беларусь">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3395052799074208"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3610353642948534"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.718501584268189E-4"></attvalue>
+          <attvalue for="pageranks" value="3.234909478365955E-4"></attvalue>
+          <attvalue for="indegree" value="14"></attvalue>
+          <attvalue for="outdegree" value="12"></attvalue>
+          <attvalue for="degree" value="26"></attvalue>
+        </attvalues>
+        <viz:size value="2.8672352"></viz:size>
+        <viz:position x="831.7783" y="-1056.5667"></viz:position>
+        <viz:color r="152" g="152" b="102"></viz:color>
+      </node>
+      <node id="UCyTLhu8573G86sla8YSp7jg" label="DED DEDOV">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33490229639138497"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35718341851221735"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="pageranks" value="5.34378326847228E-5"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="13"></attvalue>
+          <attvalue for="degree" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="562.31824" y="-1124.1835"></viz:position>
+        <viz:color r="128" g="128" b="128"></viz:color>
+      </node>
+      <node id="UCnkRuGIHl_NZMy20-EOLcWA" label="mr27den">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3575019040365575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.38947592671496484"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.005224380884794069"></attvalue>
+          <attvalue for="pageranks" value="1.8829967182733411E-4"></attvalue>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="64"></attvalue>
+          <attvalue for="degree" value="71"></attvalue>
+        </attvalues>
+        <viz:size value="1.9324787"></viz:size>
+        <viz:position x="803.0963" y="-994.22064"></viz:position>
+        <viz:color r="140" g="140" b="115"></viz:color>
+      </node>
+      <node id="UCLcDXzglgjIR9fcSp4uVOVg" label="Виктор Ковалёв">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3420784142253316"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3648203380201768"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0025437625928604766"></attvalue>
+          <attvalue for="pageranks" value="0.0012764575447807233"></attvalue>
+          <attvalue for="indegree" value="80"></attvalue>
+          <attvalue for="outdegree" value="19"></attvalue>
+          <attvalue for="degree" value="99"></attvalue>
+        </attvalues>
+        <viz:size value="9.456357"></viz:size>
+        <viz:position x="859.7947" y="-1028.1805"></viz:position>
+        <viz:color r="241" g="241" b="14"></viz:color>
+      </node>
+      <node id="UC1_d5VapyDUBRtNaMe_4C_Q" label="Гаспадар Ясь">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.41925687745623436"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4759835250674644"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.029765111959067805"></attvalue>
+          <attvalue for="pageranks" value="6.960152999520876E-4"></attvalue>
+          <attvalue for="indegree" value="58"></attvalue>
+          <attvalue for="outdegree" value="245"></attvalue>
+          <attvalue for="degree" value="303"></attvalue>
+        </attvalues>
+        <viz:size value="5.4429903"></viz:size>
+        <viz:position x="867.7454" y="-1006.2414"></viz:position>
+        <viz:color r="187" g="187" b="68"></viz:color>
+      </node>
+      <node id="UCczmIATCDSaMUY1FAxvBl2w" label="Veritas">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3372611007328639"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3594304786252038"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.243640081019452E-4"></attvalue>
+          <attvalue for="pageranks" value="4.1702048037668536E-4"></attvalue>
+          <attvalue for="indegree" value="12"></attvalue>
+          <attvalue for="outdegree" value="12"></attvalue>
+          <attvalue for="degree" value="24"></attvalue>
+        </attvalues>
+        <viz:size value="3.5139291"></viz:size>
+        <viz:position x="856.7325" y="-973.9584"></viz:position>
+        <viz:color r="161" g="161" b="94"></viz:color>
+      </node>
+      <node id="UC1a91kkfe5TATT_Pfv42MMg" label="Андрей Бодунов">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.35282621767889355"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.37800028405057035"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.004066291287622122"></attvalue>
+          <attvalue for="pageranks" value="7.591017279063434E-4"></attvalue>
+          <attvalue for="indegree" value="18"></attvalue>
+          <attvalue for="outdegree" value="27"></attvalue>
+          <attvalue for="degree" value="45"></attvalue>
+        </attvalues>
+        <viz:size value="5.8791904"></viz:size>
+        <viz:position x="572.1619" y="-1122.8912"></viz:position>
+        <viz:color r="193" g="193" b="62"></viz:color>
+      </node>
+      <node id="UCSVXtNSrhj2jyLTpR7iOSEQ" label="Victor Gg">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3635377942998761"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3899020025564647"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.853890583352041E-4"></attvalue>
+          <attvalue for="pageranks" value="8.804394818037049E-5"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="32"></attvalue>
+          <attvalue for="degree" value="34"></attvalue>
+        </attvalues>
+        <viz:size value="1.239278"></viz:size>
+        <viz:position x="542.1736" y="-1150.7177"></viz:position>
+        <viz:color r="131" g="131" b="124"></viz:color>
+      </node>
+      <node id="UCPob5WKmdh7K_peC4hUjomQ" label="wasp wasp">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.36580423940149626"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.39169152109076366"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0028654930980341296"></attvalue>
+          <attvalue for="pageranks" value="7.978499423724204E-4"></attvalue>
+          <attvalue for="indegree" value="35"></attvalue>
+          <attvalue for="outdegree" value="31"></attvalue>
+          <attvalue for="degree" value="66"></attvalue>
+        </attvalues>
+        <viz:size value="6.147108"></viz:size>
+        <viz:position x="802.02966" y="-998.36304"></viz:position>
+        <viz:color r="196" g="196" b="58"></viz:color>
+      </node>
+      <node id="UCD3weM3BPn_a6SBtX7GSn1w" label="alexandr Hamratov">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.34034222737819025"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36335037636700096"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.1486863623183008E-4"></attvalue>
+          <attvalue for="pageranks" value="7.999486616270839E-5"></attvalue>
+          <attvalue for="indegree" value="5"></attvalue>
+          <attvalue for="outdegree" value="29"></attvalue>
+          <attvalue for="degree" value="34"></attvalue>
+        </attvalues>
+        <viz:size value="1.183624"></viz:size>
+        <viz:position x="755.37134" y="-680.5213"></viz:position>
+        <viz:color r="130" g="130" b="125"></viz:color>
+      </node>
+      <node id="UC0YoxOBknjTVCQLacoAYhYQ" label="Дмитрий Козючиц">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3310763154182536"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35218718931970694"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.4965104249430374E-7"></attvalue>
+          <attvalue for="pageranks" value="7.404254579766533E-5"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="1.1424677"></viz:size>
+        <viz:position x="820.40497" y="-1066.4236"></viz:position>
+        <viz:color r="129" g="129" b="126"></viz:color>
+      </node>
+      <node id="UCxoOHao2751Ths7HE6RtQ6A" label="KAPA6UH">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3894789246598075"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4244141457179475"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.006507241372302884"></attvalue>
+          <attvalue for="pageranks" value="4.976886150714993E-4"></attvalue>
+          <attvalue for="indegree" value="29"></attvalue>
+          <attvalue for="outdegree" value="88"></attvalue>
+          <attvalue for="degree" value="117"></attvalue>
+        </attvalues>
+        <viz:size value="4.071695"></viz:size>
+        <viz:position x="837.937" y="-1074.8513"></viz:position>
+        <viz:color r="169" g="169" b="86"></viz:color>
+      </node>
+      <node id="UC6of7cMOaREXaYXMx9gxI2A" label="Henadzi Wasilewskii">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3327190246668557"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3550276949297056"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0011736880047992354"></attvalue>
+          <attvalue for="pageranks" value="3.8168304086057286E-4"></attvalue>
+          <attvalue for="indegree" value="12"></attvalue>
+          <attvalue for="outdegree" value="11"></attvalue>
+          <attvalue for="degree" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="3.2695944"></viz:size>
+        <viz:position x="801.6401" y="-982.6746"></viz:position>
+        <viz:color r="158" g="158" b="97"></viz:color>
+      </node>
+      <node id="UCC8EcaOVyFAzJdTyUWRKnAA" label="олег деревяго">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3999659168370825"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4377361170288401"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.005932816827731097"></attvalue>
+          <attvalue for="pageranks" value="9.354073247877281E-4"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="108"></attvalue>
+          <attvalue for="degree" value="110"></attvalue>
+        </attvalues>
+        <viz:size value="7.0982246"></viz:size>
+        <viz:position x="834.0752" y="-1014.073"></viz:position>
+        <viz:color r="209" g="209" b="45"></viz:color>
+      </node>
+      <node id="UCoF9VBWX2cEeWp0YPLAssmA" label="Игорь Капустин">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3675227059191982"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3953841783837626"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0011250515312782737"></attvalue>
+          <attvalue for="pageranks" value="1.7751761127199767E-4"></attvalue>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="44"></attvalue>
+          <attvalue for="degree" value="52"></attvalue>
+        </attvalues>
+        <viz:size value="1.857928"></viz:size>
+        <viz:position x="522.7854" y="-1149.3849"></viz:position>
+        <viz:color r="139" g="139" b="116"></viz:color>
+      </node>
+      <node id="UCFisRyIXuFokrfvbCQQpdkg" label="Виктор Viktor">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33257758254215675"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3545235051839309"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.190734374120511E-4"></attvalue>
+          <attvalue for="pageranks" value="2.1795344162818268E-4"></attvalue>
+          <attvalue for="indegree" value="12"></attvalue>
+          <attvalue for="outdegree" value="10"></attvalue>
+          <attvalue for="degree" value="22"></attvalue>
+        </attvalues>
+        <viz:size value="2.1375146"></viz:size>
+        <viz:position x="781.11926" y="-652.8573"></viz:position>
+        <viz:color r="143" g="143" b="112"></viz:color>
+      </node>
+      <node id="UCnepfPShnpQt3ZhRbJmeGzA" label="ANJEY Borowski">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3442863429661141"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3687260332339248"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.548161780505391E-4"></attvalue>
+          <attvalue for="pageranks" value="1.3792053583466858E-4"></attvalue>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="24"></attvalue>
+          <attvalue for="degree" value="32"></attvalue>
+        </attvalues>
+        <viz:size value="1.584141"></viz:size>
+        <viz:position x="805.92035" y="-997.19324"></viz:position>
+        <viz:color r="135" g="135" b="120"></viz:color>
+      </node>
+      <node id="UCocQLQoo-tXOPym-gWq14DQ" label="dimon makas">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33385490753911806"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35701604885670435"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.3346920281400766E-4"></attvalue>
+          <attvalue for="pageranks" value="8.141191339915122E-5"></attvalue>
+          <attvalue for="indegree" value="4"></attvalue>
+          <attvalue for="outdegree" value="13"></attvalue>
+          <attvalue for="degree" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="1.193422"></viz:size>
+        <viz:position x="834.5739" y="-966.1612"></viz:position>
+        <viz:color r="130" g="130" b="125" a="0.99607843"></viz:color>
+      </node>
+      <node id="UCq1whlNnqoblec7rndh5lpw" label="shrek shok">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33877020785219397"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36234909813947713"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0011252795430756908"></attvalue>
+          <attvalue for="pageranks" value="6.171131512176365E-4"></attvalue>
+          <attvalue for="indegree" value="16"></attvalue>
+          <attvalue for="outdegree" value="16"></attvalue>
+          <attvalue for="degree" value="32"></attvalue>
+        </attvalues>
+        <viz:size value="4.8974347"></viz:size>
+        <viz:position x="769.45325" y="-684.9935"></viz:position>
+        <viz:color r="180" g="180" b="75"></viz:color>
+      </node>
+      <node id="UCRWalB0w7J5wP7opXKws-qg" label="Профессор Преображенский">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3381844380403458"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3603962505326035"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.6136773845794406E-4"></attvalue>
+          <attvalue for="pageranks" value="8.07698430535488E-5"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="14"></attvalue>
+          <attvalue for="degree" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="1.1889825"></viz:size>
+        <viz:position x="828.63153" y="-991.5555"></viz:position>
+        <viz:color r="130" g="130" b="125"></viz:color>
+      </node>
+      <node id="UCvv0WeXlyd363ExTK-okgqA" label="Ирина Ленькова">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33566933638443935"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3581309473086294"></attvalue>
+          <attvalue for="betweenesscentrality" value="7.222968520453776E-4"></attvalue>
+          <attvalue for="pageranks" value="3.2858323624729665E-4"></attvalue>
+          <attvalue for="indegree" value="31"></attvalue>
+          <attvalue for="outdegree" value="12"></attvalue>
+          <attvalue for="degree" value="43"></attvalue>
+        </attvalues>
+        <viz:size value="2.902445"></viz:size>
+        <viz:position x="865.67676" y="-1020.1702"></viz:position>
+        <viz:color r="153" g="153" b="102"></viz:color>
+      </node>
+      <node id="UCPzJ8dk6v2qdoBeAIr_aSog" label="Mihal Kisel">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33135676973034023"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3530748473228315"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.1991228194050457E-4"></attvalue>
+          <attvalue for="pageranks" value="3.0492836254233496E-4"></attvalue>
+          <attvalue for="indegree" value="5"></attvalue>
+          <attvalue for="outdegree" value="9"></attvalue>
+          <attvalue for="degree" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="2.7388875"></viz:size>
+        <viz:position x="540.33386" y="-1154.4155"></viz:position>
+        <viz:color r="151" g="151" b="104"></viz:color>
+      </node>
+      <node id="UC19RcDwSBLKV0OE4QLjAxww" label="Aлексей Филатов">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33103059354292963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3521436683702522"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="pageranks" value="5.34378326847228E-5"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="797.0712" y="-967.7816"></viz:position>
+        <viz:color r="128" g="128" b="128"></viz:color>
+      </node>
+      <node id="UCSBOde_L2EoPX0HiHk4tFRg" label="Salari Salari">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33857472590882864"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3610211617668029"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.600482070178754E-4"></attvalue>
+          <attvalue for="pageranks" value="5.103089977848112E-4"></attvalue>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="10"></attvalue>
+          <attvalue for="degree" value="18"></attvalue>
+        </attvalues>
+        <viz:size value="4.1589565"></viz:size>
+        <viz:position x="785.10693" y="-1003.0474"></viz:position>
+        <viz:color r="170" g="170" b="85"></viz:color>
+      </node>
+      <node id="UCyhtYo0y1nut6OODuOohNMA" label="Доктор Доктор">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33461648132306815"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3577119727311545"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0011168666478957791"></attvalue>
+          <attvalue for="pageranks" value="5.993613225532953E-4"></attvalue>
+          <attvalue for="indegree" value="24"></attvalue>
+          <attvalue for="outdegree" value="14"></attvalue>
+          <attvalue for="degree" value="38"></attvalue>
+        </attvalues>
+        <viz:size value="4.7746935"></viz:size>
+        <viz:position x="538.37714" y="-1140.8876"></viz:position>
+        <viz:color r="178" g="178" b="77"></viz:color>
+      </node>
+      <node id="UC-eJuYoKKkhkcvOQ_9gXKWw" label="Бешеный Джо">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3310296191819464"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35215168299958194"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.385005412539257E-7"></attvalue>
+          <attvalue for="pageranks" value="6.725496716836162E-5"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="1.0955362"></viz:size>
+        <viz:position x="568.95" y="-1138.281"></viz:position>
+        <viz:color r="129" g="129" b="126"></viz:color>
+      </node>
+      <node id="UCQG0dGbQ4AqEfpYvIrCQ1iQ" label="Юрий Базин">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3403915881073242"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36359892060787696"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.1667952171181267E-4"></attvalue>
+          <attvalue for="pageranks" value="1.3843379642474647E-4"></attvalue>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="14"></attvalue>
+          <attvalue for="degree" value="22"></attvalue>
+        </attvalues>
+        <viz:size value="1.5876899"></viz:size>
+        <viz:position x="807.6923" y="-1031.7921"></viz:position>
+        <viz:color r="135" g="135" b="120" a="0.99607843"></viz:color>
+      </node>
+      <node id="UC3SH6NIhrgf6pRd-qlgt27Q" label="Pczemek Kosowiec">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.35061248879593665"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.37497514557592193"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.002032748938730667"></attvalue>
+          <attvalue for="pageranks" value="6.242707145620427E-4"></attvalue>
+          <attvalue for="indegree" value="19"></attvalue>
+          <attvalue for="outdegree" value="18"></attvalue>
+          <attvalue for="degree" value="37"></attvalue>
+        </attvalues>
+        <viz:size value="4.946924"></viz:size>
+        <viz:position x="807.58435" y="-697.1427"></viz:position>
+        <viz:color r="180" g="180" b="74"></viz:color>
+      </node>
+      <node id="UCVMjreBo-XF0B-_-IqTCYAA" label="stas1970 M">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3443368544600939"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.369166311603474"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0010499492558174893"></attvalue>
+          <attvalue for="pageranks" value="2.0013999676140245E-4"></attvalue>
+          <attvalue for="indegree" value="16"></attvalue>
+          <attvalue for="outdegree" value="21"></attvalue>
+          <attvalue for="degree" value="37"></attvalue>
+        </attvalues>
+        <viz:size value="2.0143466"></viz:size>
+        <viz:position x="788.558" y="-1014.34485"></viz:position>
+        <viz:color r="141" g="141" b="114"></viz:color>
+      </node>
+      <node id="UCYlzmzoTwFPpm2Sau4PIg6Q" label="Oleg Colesnik">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3317783432287249"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3536784547649562"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.6656921390585642E-4"></attvalue>
+          <attvalue for="pageranks" value="5.006537197452978E-4"></attvalue>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="9"></attvalue>
+          <attvalue for="degree" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="4.0921965"></viz:size>
+        <viz:position x="766.62115" y="-639.50055"></viz:position>
+        <viz:color r="169" g="169" b="86"></viz:color>
+      </node>
+      <node id="UCOajWg5eyQx8GMejvIbt9yg" label="Tomara Aleksandrovna">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3668907300297014"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.39309757136771356"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0057388520493045995"></attvalue>
+          <attvalue for="pageranks" value="0.0010836131751121075"></attvalue>
+          <attvalue for="indegree" value="51"></attvalue>
+          <attvalue for="outdegree" value="34"></attvalue>
+          <attvalue for="degree" value="85"></attvalue>
+        </attvalues>
+        <viz:size value="8.122969"></viz:size>
+        <viz:position x="843.03076" y="-1043.2333"></viz:position>
+        <viz:color r="223" g="223" b="32"></viz:color>
+      </node>
+      <node id="UCgbw_2JpmKt3RT3UkxPUdHA" label="Alexei Kireev">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33116974742486244"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3526487714813317"></attvalue>
+          <attvalue for="betweenesscentrality" value="8.30660145225207E-5"></attvalue>
+          <attvalue for="pageranks" value="1.4189929206879508E-4"></attvalue>
+          <attvalue for="indegree" value="5"></attvalue>
+          <attvalue for="outdegree" value="8"></attvalue>
+          <attvalue for="degree" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="1.6116514"></viz:size>
+        <viz:position x="504.1956" y="-1136.0156"></viz:position>
+        <viz:color r="136" g="136" b="119"></viz:color>
+      </node>
+      <node id="UCr2I-XJjvEha5YBB0YRNmKg" label="Странник СВой">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3314043754410727"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35292447473027483"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+          <attvalue for="pageranks" value="5.34378326847228E-5"></attvalue>
+          <attvalue for="indegree" value="0"></attvalue>
+          <attvalue for="outdegree" value="8"></attvalue>
+          <attvalue for="degree" value="8"></attvalue>
+        </attvalues>
+        <viz:size value="1.0"></viz:size>
+        <viz:position x="751.9799" y="-698.76465"></viz:position>
+        <viz:color r="128" g="128" b="128"></viz:color>
+      </node>
+      <node id="UCKJ3g-TOtw1O__UzAq_NC6Q" label="Марина Науменко">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3322950587569022"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3543033659991561"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.096081350003182E-4"></attvalue>
+          <attvalue for="pageranks" value="2.0801098192842757E-4"></attvalue>
+          <attvalue for="indegree" value="9"></attvalue>
+          <attvalue for="outdegree" value="10"></attvalue>
+          <attvalue for="degree" value="19"></attvalue>
+        </attvalues>
+        <viz:size value="2.068769"></viz:size>
+        <viz:position x="544.93854" y="-1140.0294"></viz:position>
+        <viz:color r="142" g="142" b="113"></viz:color>
+      </node>
+      <node id="UCZFEQa4enp1bjLw0ZttF3lA" label="Андрей Нео">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33130999435347264"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35264877148133167"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.9415771623230645E-5"></attvalue>
+          <attvalue for="pageranks" value="1.2191322794048789E-4"></attvalue>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="7"></attvalue>
+          <attvalue for="degree" value="15"></attvalue>
+        </attvalues>
+        <viz:size value="1.4734613"></viz:size>
+        <viz:position x="535.7122" y="-1097.8406"></viz:position>
+        <viz:color r="134" g="134" b="121"></viz:color>
+      </node>
+      <node id="UC05kp2Qfne7Ik2UuTFuhzCQ" label="Валодя Кононов">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33965267727930537"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3635208067036015"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0010010268289971352"></attvalue>
+          <attvalue for="pageranks" value="4.304576867580446E-4"></attvalue>
+          <attvalue for="indegree" value="15"></attvalue>
+          <attvalue for="outdegree" value="16"></attvalue>
+          <attvalue for="degree" value="31"></attvalue>
+        </attvalues>
+        <viz:size value="3.6068385"></viz:size>
+        <viz:position x="749.2672" y="-1003.5332"></viz:position>
+        <viz:color r="162" g="162" b="92"></viz:color>
+      </node>
+      <node id="UC-f-1AlXUidGOFROVE4ubew" label="валентин М">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33394991462720547"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35558869478768035"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.302562616624819E-4"></attvalue>
+          <attvalue for="pageranks" value="8.381592659099862E-4"></attvalue>
+          <attvalue for="indegree" value="29"></attvalue>
+          <attvalue for="outdegree" value="10"></attvalue>
+          <attvalue for="degree" value="39"></attvalue>
+        </attvalues>
+        <viz:size value="6.4258204"></viz:size>
+        <viz:position x="498.994" y="-1145.5455"></viz:position>
+        <viz:color r="200" g="200" b="54"></viz:color>
+      </node>
+      <node id="UCO_h_l3CxDhP5EmH-JdgiwA" label="Дмитрий Макаров">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3416800116465279"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36465700894760167"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.7623453133632507E-4"></attvalue>
+          <attvalue for="pageranks" value="5.85488225362168E-4"></attvalue>
+          <attvalue for="indegree" value="9"></attvalue>
+          <attvalue for="outdegree" value="12"></attvalue>
+          <attvalue for="degree" value="21"></attvalue>
+        </attvalues>
+        <viz:size value="4.67877"></viz:size>
+        <viz:position x="549.41315" y="-1150.583"></viz:position>
+        <viz:color r="177" g="177" b="78"></viz:color>
+      </node>
+      <node id="UCouSneQKCbQ6cIw2d6SUz-A" label="Викентий Рудый">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33098293611620366"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.352080670359332"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.837701174547749E-6"></attvalue>
+          <attvalue for="pageranks" value="1.9519739597595643E-4"></attvalue>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="9"></attvalue>
+        </attvalues>
+        <viz:size value="1.9801719"></viz:size>
+        <viz:position x="812.51807" y="-726.39374"></viz:position>
+        <viz:color r="141" g="141" b="114"></viz:color>
+      </node>
+      <node id="UCM-dd9_hHgpAEBgwzRSYN8A" label="Василий">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3333806818181818"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3547010367845557"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.8699575425423393E-5"></attvalue>
+          <attvalue for="pageranks" value="1.277426296071901E-4"></attvalue>
+          <attvalue for="indegree" value="6"></attvalue>
+          <attvalue for="outdegree" value="8"></attvalue>
+          <attvalue for="degree" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="1.5137676"></viz:size>
+        <viz:position x="810.12366" y="-680.5008"></viz:position>
+        <viz:color r="134" g="134" b="121"></viz:color>
+      </node>
+      <node id="UC6f75vYqbUD1Gy5flQL9AkA" label="Filip Komarowski">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33098293611620366"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.352080670359332"></attvalue>
+          <attvalue for="betweenesscentrality" value="7.13210252079182E-5"></attvalue>
+          <attvalue for="pageranks" value="7.321823983696119E-4"></attvalue>
+          <attvalue for="indegree" value="18"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="24"></attvalue>
+        </attvalues>
+        <viz:size value="5.6930614"></viz:size>
+        <viz:position x="791.7658" y="-654.3055"></viz:position>
+        <viz:color r="190" g="190" b="64"></viz:color>
+      </node>
+      <node id="UCzB7obuM5ZZ6kl9Tw7Q8rhA" label="assa">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3341400911161731"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3568953273682798"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.437390868469886E-4"></attvalue>
+          <attvalue for="pageranks" value="4.312791991842855E-4"></attvalue>
+          <attvalue for="indegree" value="9"></attvalue>
+          <attvalue for="outdegree" value="14"></attvalue>
+          <attvalue for="degree" value="23"></attvalue>
+        </attvalues>
+        <viz:size value="3.6125185"></viz:size>
+        <viz:position x="805.1725" y="-662.63153"></viz:position>
+        <viz:color r="162" g="162" b="92"></viz:color>
+      </node>
+      <node id="UC1q2NkxzkAM9nv3lcNeXNUQ" label="Іоан Канопля">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.34192890442890445"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.363840363584727"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.1599102265661429E-4"></attvalue>
+          <attvalue for="pageranks" value="1.2615976524916716E-4"></attvalue>
+          <attvalue for="indegree" value="6"></attvalue>
+          <attvalue for="outdegree" value="10"></attvalue>
+          <attvalue for="degree" value="16"></attvalue>
+        </attvalues>
+        <viz:size value="1.5028231"></viz:size>
+        <viz:position x="830.1446" y="-1061.1595"></viz:position>
+        <viz:color r="134" g="134" b="121"></viz:color>
+      </node>
+      <node id="UC5gN_oPXJZpBmvfzMhIVj9w" label="Сема Дрыпкин">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33461648132306815"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35693793495243004"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.001641255514598066"></attvalue>
+          <attvalue for="pageranks" value="6.075022346036491E-4"></attvalue>
+          <attvalue for="indegree" value="27"></attvalue>
+          <attvalue for="outdegree" value="12"></attvalue>
+          <attvalue for="degree" value="39"></attvalue>
+        </attvalues>
+        <viz:size value="4.830982"></viz:size>
+        <viz:position x="865.3451" y="-1004.94165"></viz:position>
+        <viz:color r="179" g="179" b="76"></viz:color>
+      </node>
+      <node id="UC6YVjJctnriUNX7wV-kdiIQ" label="Nik Pav">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3583206106870229"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.38424229512854335"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.007193643037834354"></attvalue>
+          <attvalue for="pageranks" value="0.001790908078141006"></attvalue>
+          <attvalue for="indegree" value="91"></attvalue>
+          <attvalue for="outdegree" value="37"></attvalue>
+          <attvalue for="degree" value="128"></attvalue>
+        </attvalues>
+        <viz:size value="13.013436"></viz:size>
+        <viz:position x="809.7661" y="-1021.3507"></viz:position>
+        <viz:color r="255" g="240" b="0"></viz:color>
+      </node>
+      <node id="UCVjirFoaVzYbglVeqSbXxpA" label="Дмитрий Адамович">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3481162859685553"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3692870330919"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.073512231481191E-4"></attvalue>
+          <attvalue for="pageranks" value="1.894969161748918E-4"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="11"></attvalue>
+          <attvalue for="degree" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="1.9407568"></viz:size>
+        <viz:position x="900.3374" y="-1000.4025"></viz:position>
+        <viz:color r="140" g="140" b="115"></viz:color>
+      </node>
+      <node id="UCj2iQPJp8e6_B6UzOTrG8aA" label="Vitalik Murahko">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3619679210363973"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.39075415423946425"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0026616785646829066"></attvalue>
+          <attvalue for="pageranks" value="2.63456378664224E-4"></attvalue>
+          <attvalue for="indegree" value="9"></attvalue>
+          <attvalue for="outdegree" value="44"></attvalue>
+          <attvalue for="degree" value="53"></attvalue>
+        </attvalues>
+        <viz:size value="2.4521368"></viz:size>
+        <viz:position x="836.0706" y="-1021.94617"></viz:position>
+        <viz:color r="147" g="147" b="108"></viz:color>
+      </node>
+      <node id="UCvQt5fR7QM-XNlHT2HFLj1w" label="Дмитрий Старостов">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33862357524166786"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3608436301661779"></attvalue>
+          <attvalue for="betweenesscentrality" value="7.201507930977098E-5"></attvalue>
+          <attvalue for="pageranks" value="1.8917383412085583E-4"></attvalue>
+          <attvalue for="indegree" value="5"></attvalue>
+          <attvalue for="outdegree" value="9"></attvalue>
+          <attvalue for="degree" value="14"></attvalue>
+        </attvalues>
+        <viz:size value="1.938523"></viz:size>
+        <viz:position x="584.97565" y="-1108.9891"></viz:position>
+        <viz:color r="140" g="140" b="115"></viz:color>
+      </node>
+      <node id="UCR0KKC-hqlnngQ7aoqTql9Q" label="Роман Поравай">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3310763154182536"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35236472092033183"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.3065339174438342E-5"></attvalue>
+          <attvalue for="pageranks" value="9.967657927261707E-5"></attvalue>
+          <attvalue for="indegree" value="4"></attvalue>
+          <attvalue for="outdegree" value="7"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="1.3197098"></viz:size>
+        <viz:position x="928.11865" y="-969.5633"></viz:position>
+        <viz:color r="132" g="132" b="123"></viz:color>
+      </node>
+      <node id="UCcHrWgd8MMtMskpgkGz2QDg" label="Олег Петрович">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3547996976568405"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3775955120011457"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0013935611038700321"></attvalue>
+          <attvalue for="pageranks" value="2.8118694763187835E-4"></attvalue>
+          <attvalue for="indegree" value="16"></attvalue>
+          <attvalue for="outdegree" value="18"></attvalue>
+          <attvalue for="degree" value="34"></attvalue>
+        </attvalues>
+        <viz:size value="2.5747318"></viz:size>
+        <viz:position x="841.7466" y="-1048.5377"></viz:position>
+        <viz:color r="149" g="149" b="106"></viz:color>
+      </node>
+      <node id="UCdpNUbM6v8zNL-YWb8Yksyw" label="Вячеслав Сацевич">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3466253138384286"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36686550205937624"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.6080866140798236E-5"></attvalue>
+          <attvalue for="pageranks" value="6.352847113941896E-5"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="8"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="1.06977"></viz:size>
+        <viz:position x="879.7851" y="-1008.7299"></viz:position>
+        <viz:color r="128" g="128" b="127"></viz:color>
+      </node>
+      <node id="UCPdOx-L-vrNPymDAZXc3H0w" label="Taler Fabian">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33098293611620366"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.352080670359332"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.1869820250555142E-4"></attvalue>
+          <attvalue for="pageranks" value="4.253563989656316E-4"></attvalue>
+          <attvalue for="indegree" value="16"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="22"></attvalue>
+        </attvalues>
+        <viz:size value="3.5715663"></viz:size>
+        <viz:position x="881.0019" y="-951.8359"></viz:position>
+        <viz:color r="162" g="162" b="93"></viz:color>
+      </node>
+      <node id="UCBfY-t0j6gx_Jb6u_twu4pg" label="ExcellentEssence">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3701892744479495"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3955120011362121"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.00241900363736714"></attvalue>
+          <attvalue for="pageranks" value="3.8864468117505083E-4"></attvalue>
+          <attvalue for="indegree" value="9"></attvalue>
+          <attvalue for="outdegree" value="27"></attvalue>
+          <attvalue for="degree" value="36"></attvalue>
+        </attvalues>
+        <viz:size value="3.3177297"></viz:size>
+        <viz:position x="853.78107" y="-1002.6926"></viz:position>
+        <viz:color r="158" g="158" b="96"></viz:color>
+      </node>
+      <node id="UCRUERNkNUgkwtjKeYrqF2bA" label="Mikalai Maslouski">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33205998868138087"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3536429484448313"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.350198751290917E-4"></attvalue>
+          <attvalue for="pageranks" value="5.188456158796044E-4"></attvalue>
+          <attvalue for="indegree" value="12"></attvalue>
+          <attvalue for="outdegree" value="8"></attvalue>
+          <attvalue for="degree" value="20"></attvalue>
+        </attvalues>
+        <viz:size value="4.2179813"></viz:size>
+        <viz:position x="784.3494" y="-660.07654"></viz:position>
+        <viz:color r="171" g="171" b="84"></viz:color>
+      </node>
+      <node id="UC2QYB0xnNElYXQZKKoLzxyQ" label="Михаил Боровский">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33130999435347264"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3528618094020816"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.394205386055515E-4"></attvalue>
+          <attvalue for="pageranks" value="1.3643100191956418E-4"></attvalue>
+          <attvalue for="indegree" value="13"></attvalue>
+          <attvalue for="outdegree" value="8"></attvalue>
+          <attvalue for="degree" value="21"></attvalue>
+        </attvalues>
+        <viz:size value="1.5738418"></viz:size>
+        <viz:position x="812.7589" y="-961.5116"></viz:position>
+        <viz:color r="135" g="135" b="120"></viz:color>
+      </node>
+      <node id="UCJrKmqGMT1r83xb6DYNZ1zA" label="Vitaliy Obodenko">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33837946943483277"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35974293424230397"></attvalue>
+          <attvalue for="betweenesscentrality" value="7.937632084981625E-4"></attvalue>
+          <attvalue for="pageranks" value="2.549876650132146E-4"></attvalue>
+          <attvalue for="indegree" value="20"></attvalue>
+          <attvalue for="outdegree" value="11"></attvalue>
+          <attvalue for="degree" value="31"></attvalue>
+        </attvalues>
+        <viz:size value="2.3935814"></viz:size>
+        <viz:position x="860.06647" y="-976.9481"></viz:position>
+        <viz:color r="146" g="146" b="109"></viz:color>
+      </node>
+      <node id="UC-Vp6frGxWYQ1elFb18n_5g" label="Galina Galina">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3372611007328639"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3604601619088282"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0012895105650272993"></attvalue>
+          <attvalue for="pageranks" value="0.002730652638628978"></attvalue>
+          <attvalue for="indegree" value="9"></attvalue>
+          <attvalue for="outdegree" value="15"></attvalue>
+          <attvalue for="degree" value="24"></attvalue>
+        </attvalues>
+        <viz:size value="19.511137"></viz:size>
+        <viz:position x="806.5815" y="-642.45703"></viz:position>
+        <viz:color r="255" g="202" b="0"></viz:color>
+      </node>
+      <node id="UCT5w1RQBBglJqV24DDO1_cw" label="Omega">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33098293611620366"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.352080670359332"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.103870335688459E-4"></attvalue>
+          <attvalue for="pageranks" value="0.0028013556097627244"></attvalue>
+          <attvalue for="indegree" value="4"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="575.0233" y="-1139.3716"></viz:position>
+        <viz:color r="255" g="0" b="0"></viz:color>
+      </node>
+      <node id="UCrUqWho7jwvq7sXix2OOVfQ" label="Яна Диковицкая">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.35145253069781374"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3743786393978227"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0014446401847180942"></attvalue>
+          <attvalue for="pageranks" value="0.0010606814988901926"></attvalue>
+          <attvalue for="indegree" value="46"></attvalue>
+          <attvalue for="outdegree" value="21"></attvalue>
+          <attvalue for="degree" value="67"></attvalue>
+        </attvalues>
+        <viz:size value="7.964411"></viz:size>
+        <viz:position x="807.4734" y="-1034.3315"></viz:position>
+        <viz:color r="221" g="221" b="34"></viz:color>
+      </node>
+      <node id="UCxixIe0xN9rwDj22nvUi7Sw" label="Adolf Nya">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33098293611620366"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.352080670359332"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.339274087147323E-5"></attvalue>
+          <attvalue for="pageranks" value="2.999781639787483E-4"></attvalue>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="2.7046604"></viz:size>
+        <viz:position x="848.76575" y="-982.13965"></viz:position>
+        <viz:color r="150" g="150" b="105"></viz:color>
+      </node>
+      <node id="UCq6v85A5_8NXJOSSG_zgpzA" label="Andrew Zhuk">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.334235260609513"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3555176821474304"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.619743058093373E-4"></attvalue>
+          <attvalue for="pageranks" value="6.376563086277448E-4"></attvalue>
+          <attvalue for="indegree" value="34"></attvalue>
+          <attvalue for="outdegree" value="8"></attvalue>
+          <attvalue for="degree" value="42"></attvalue>
+        </attvalues>
+        <viz:size value="5.0394773"></viz:size>
+        <viz:position x="842.2435" y="-1028.7843"></viz:position>
+        <viz:color r="182" g="182" b="73"></viz:color>
+      </node>
+      <node id="UCAmlDUfzGapIbc1SHM9bmJw" label="Трезвый водитель">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33677715597646724"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36102826303082775"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0019266634390814974"></attvalue>
+          <attvalue for="pageranks" value="9.160162000408749E-4"></attvalue>
+          <attvalue for="indegree" value="33"></attvalue>
+          <attvalue for="outdegree" value="19"></attvalue>
+          <attvalue for="degree" value="52"></attvalue>
+        </attvalues>
+        <viz:size value="6.9641485"></viz:size>
+        <viz:position x="776.26556" y="-688.56177"></viz:position>
+        <viz:color r="207" g="207" b="47"></viz:color>
+      </node>
+      <node id="UCyHr0rKhqO5QyOEJnJvpnMg" label="Andrey">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3343781165408178"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3554750745632806"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.4608679012336333E-4"></attvalue>
+          <attvalue for="pageranks" value="4.079935884605321E-4"></attvalue>
+          <attvalue for="indegree" value="22"></attvalue>
+          <attvalue for="outdegree" value="10"></attvalue>
+          <attvalue for="degree" value="32"></attvalue>
+        </attvalues>
+        <viz:size value="3.4515142"></viz:size>
+        <viz:position x="806.6869" y="-983.5591"></viz:position>
+        <viz:color r="160" g="160" b="94"></viz:color>
+      </node>
+      <node id="UCciI-XZ3Q23ef-KvKoly9wg" label="GTX_BLACK">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.34636953955135774"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.367192160204526"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.9680392767317774E-4"></attvalue>
+          <attvalue for="pageranks" value="2.8273864529996E-4"></attvalue>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="11"></attvalue>
+          <attvalue for="degree" value="18"></attvalue>
+        </attvalues>
+        <viz:size value="2.5854607"></viz:size>
+        <viz:position x="797.6897" y="-997.4697"></viz:position>
+        <viz:color r="149" g="149" b="106" a="0.99607843"></viz:color>
+      </node>
+      <node id="UCk5bGThYvsK3s_RfUuVh1Jg" label="Дзмітрі Камароў">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3318252509543334"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35342991052408135"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.2360082574224796E-4"></attvalue>
+          <attvalue for="pageranks" value="9.415966034584583E-5"></attvalue>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="8"></attvalue>
+          <attvalue for="degree" value="11"></attvalue>
+        </attvalues>
+        <viz:size value="1.281564"></viz:size>
+        <viz:position x="823.129" y="-1044.3007"></viz:position>
+        <viz:color r="131" g="131" b="124"></viz:color>
+      </node>
+      <node id="UCPWImhlObeQDbh3T2YdCDLA" label="Серый Кот">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.36035621065561185"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3875301803721156"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0020092662741651676"></attvalue>
+          <attvalue for="pageranks" value="6.002023598950121E-4"></attvalue>
+          <attvalue for="indegree" value="17"></attvalue>
+          <attvalue for="outdegree" value="32"></attvalue>
+          <attvalue for="degree" value="49"></attvalue>
+        </attvalues>
+        <viz:size value="4.780508"></viz:size>
+        <viz:position x="834.2318" y="-1043.708"></viz:position>
+        <viz:color r="178" g="178" b="77"></viz:color>
+      </node>
+      <node id="UCeS4netjbx2LBRydUo_xGdg" label="Алексей Железняков">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.32615341856586993"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3465274818917842"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.0589541564368053E-4"></attvalue>
+          <attvalue for="pageranks" value="8.688944071448902E-5"></attvalue>
+          <attvalue for="indegree" value="5"></attvalue>
+          <attvalue for="outdegree" value="7"></attvalue>
+          <attvalue for="degree" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="1.2312953"></viz:size>
+        <viz:position x="-152.07492" y="221.76715"></viz:position>
+        <viz:color r="131" g="131" b="124"></viz:color>
+      </node>
+      <node id="UCsfMkhjdLHnSZ-F3Kk3b3QQ" label="Вано Карпентэр">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.32327823691460056"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34333901434456066"></attvalue>
+          <attvalue for="betweenesscentrality" value="7.50915644292879E-5"></attvalue>
+          <attvalue for="pageranks" value="1.5074034409796923E-4"></attvalue>
+          <attvalue for="indegree" value="7"></attvalue>
+          <attvalue for="outdegree" value="6"></attvalue>
+          <attvalue for="degree" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="1.6727812"></viz:size>
+        <viz:position x="860.67175" y="-961.5194"></viz:position>
+        <viz:color r="136" g="136" b="118"></viz:color>
+      </node>
+      <node id="UCFgIy9JrolyeHNpSJN7S-zw" label="Walter Krause">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3312164832063223"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3527197841215816"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.1957987215125925E-4"></attvalue>
+          <attvalue for="pageranks" value="2.615161482361581E-4"></attvalue>
+          <attvalue for="indegree" value="4"></attvalue>
+          <attvalue for="outdegree" value="8"></attvalue>
+          <attvalue for="degree" value="12"></attvalue>
+        </attvalues>
+        <viz:size value="2.4387214"></viz:size>
+        <viz:position x="556.22144" y="-1142.2931"></viz:position>
+        <viz:color r="147" g="147" b="108"></viz:color>
+      </node>
+      <node id="UCILe3HX__oup5csh-SeoguQ" label="сергей николаевич">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3312632321806634"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3527907967618316"></attvalue>
+          <attvalue for="betweenesscentrality" value="9.239952453509384E-7"></attvalue>
+          <attvalue for="pageranks" value="8.473640487524982E-5"></attvalue>
+          <attvalue for="indegree" value="2"></attvalue>
+          <attvalue for="outdegree" value="8"></attvalue>
+          <attvalue for="degree" value="10"></attvalue>
+        </attvalues>
+        <viz:size value="1.2164085"></viz:size>
+        <viz:position x="792.3138" y="-717.2806"></viz:position>
+        <viz:color r="130" g="130" b="125"></viz:color>
+      </node>
+      <node id="UCyqmbELOSMVp4-RuWdos3lw" label="Михаил Чемурако - ГНБ бурение">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.33523700742432894"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3576590005678677"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.871639340950164E-6"></attvalue>
+          <attvalue for="pageranks" value="5.457338662927315E-5"></attvalue>
+          <attvalue for="indegree" value="1"></attvalue>
+          <attvalue for="outdegree" value="12"></attvalue>
+          <attvalue for="degree" value="13"></attvalue>
+        </attvalues>
+        <viz:size value="1.0078516"></viz:size>
+        <viz:position x="870.39197" y="-975.04895"></viz:position>
+        <viz:color r="128" g="128" b="127"></viz:color>
+      </node>
+      <node id="UCcnD4FG_ePlzazmTiBUj9dA" label="Литвин полешук">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3554983338382308"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.38057804289164454"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.993245772196773E-4"></attvalue>
+          <attvalue for="pageranks" value="2.1892390836661933E-4"></attvalue>
+          <attvalue for="indegree" value="13"></attvalue>
+          <attvalue for="outdegree" value="30"></attvalue>
+          <attvalue for="degree" value="43"></attvalue>
+        </attvalues>
+        <viz:size value="2.1442246"></viz:size>
+        <viz:position x="772.82904" y="-650.02844"></viz:position>
+        <viz:color r="143" g="143" b="112"></viz:color>
+      </node>
+      <node id="UCpS2zHEZbAzOZD4IDTUeIUg" label="Анатоль Аляксандраў">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3321069760860337"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3536642522369061"></attvalue>
+          <attvalue for="betweenesscentrality" value="4.1664042434566854E-4"></attvalue>
+          <attvalue for="pageranks" value="2.259671609886551E-4"></attvalue>
+          <attvalue for="indegree" value="8"></attvalue>
+          <attvalue for="outdegree" value="9"></attvalue>
+          <attvalue for="degree" value="17"></attvalue>
+        </attvalues>
+        <viz:size value="2.192924"></viz:size>
+        <viz:position x="494.4527" y="-1151.7034"></viz:position>
+        <viz:color r="143" g="143" b="111"></viz:color>
+      </node>
+      <node id="UCEXjUwgf5eQbv_3R4JCx-sQ" label="Leonid Pactyx">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3322950587569022"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3544595938077059"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.121772686906236E-4"></attvalue>
+          <attvalue for="pageranks" value="5.384144508109441E-4"></attvalue>
+          <attvalue for="indegree" value="11"></attvalue>
+          <attvalue for="outdegree" value="11"></attvalue>
+          <attvalue for="degree" value="22"></attvalue>
+        </attvalues>
+        <viz:size value="4.3532867"></viz:size>
+        <viz:position x="791.59064" y="-698.91516"></viz:position>
+        <viz:color r="172" g="172" b="82"></viz:color>
+      </node>
+      <node id="UCOTUymTwxwwrQ_a3zCLWoxg" label="Walter White">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.321198850417408"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3433816219287089"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.001683406107217097"></attvalue>
+          <attvalue for="pageranks" value="4.4460819079778483E-4"></attvalue>
+          <attvalue for="indegree" value="11"></attvalue>
+          <attvalue for="outdegree" value="25"></attvalue>
+          <attvalue for="degree" value="36"></attvalue>
+        </attvalues>
+        <viz:size value="3.7046795"></viz:size>
+        <viz:position x="778.3423" y="-702.7781"></viz:position>
+        <viz:color r="164" g="164" b="91" a="0.99607843"></viz:color>
+      </node>
+      <node id="UC_L8PKObDcvqYXwIoNIwujg" label="Zav64 Zav64">
+        <attvalues>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.321110959091531"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34301235619940934"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.3320367419742668E-4"></attvalue>
+          <attvalue for="pageranks" value="7.138873165430516E-5"></attvalue>
+          <attvalue for="indegree" value="3"></attvalue>
+          <attvalue for="outdegree" value="23"></attvalue>
+          <attvalue for="degree" value="26"></attvalue>
+        </attvalues>
+        <viz:size value="1.1241183"></viz:size>
+        <viz:position x="787.4369" y="-688.57117"></viz:position>
+        <viz:color r="129" g="129" b="126"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="3248" source="UCOTUymTwxwwrQ_a3zCLWoxg" target="UCq1whlNnqoblec7rndh5lpw" label="1"></edge>
+      <edge id="3255" source="UCYlzmzoTwFPpm2Sau4PIg6Q" target="UCq1whlNnqoblec7rndh5lpw" label="1"></edge>
+      <edge id="3867" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UCPzJ8dk6v2qdoBeAIr_aSog" label="1"></edge>
+      <edge id="5537" source="UCD3weM3BPn_a6SBtX7GSn1w" target="UCOajWg5eyQx8GMejvIbt9yg" label="1"></edge>
+      <edge id="5540" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UCOajWg5eyQx8GMejvIbt9yg" label="2" weight="2.0"></edge>
+      <edge id="5548" source="UCxoOHao2751Ths7HE6RtQ6A" target="UCOajWg5eyQx8GMejvIbt9yg" label="1"></edge>
+      <edge id="7069" source="UCC8EcaOVyFAzJdTyUWRKnAA" target="UCM-dd9_hHgpAEBgwzRSYN8A" label="1"></edge>
+      <edge id="7454" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UC6f75vYqbUD1Gy5flQL9AkA" label="1"></edge>
+      <edge id="7461" source="UCPob5WKmdh7K_peC4hUjomQ" target="UC6f75vYqbUD1Gy5flQL9AkA" label="1"></edge>
+      <edge id="16290" source="UCPWImhlObeQDbh3T2YdCDLA" target="UCczmIATCDSaMUY1FAxvBl2w" label="1"></edge>
+      <edge id="44404" source="UC0rZkAUynskxxNDzAxCZrqQ" target="UCoF9VBWX2cEeWp0YPLAssmA" label="1"></edge>
+      <edge id="44720" source="UC1a91kkfe5TATT_Pfv42MMg" target="UCR0KKC-hqlnngQ7aoqTql9Q" label="1"></edge>
+      <edge id="45985" source="UCcnD4FG_ePlzazmTiBUj9dA" target="UC2QYB0xnNElYXQZKKoLzxyQ" label="1"></edge>
+      <edge id="45989" source="UC1_d5VapyDUBRtNaMe_4C_Q" target="UC2QYB0xnNElYXQZKKoLzxyQ" label="1"></edge>
+      <edge id="46472" source="UCcnD4FG_ePlzazmTiBUj9dA" target="UCrUqWho7jwvq7sXix2OOVfQ" label="1"></edge>
+      <edge id="46475" source="UC1_d5VapyDUBRtNaMe_4C_Q" target="UCrUqWho7jwvq7sXix2OOVfQ" label="1"></edge>
+      <edge id="46477" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UCrUqWho7jwvq7sXix2OOVfQ" label="1"></edge>
+      <edge id="46478" source="UC-Vp6frGxWYQ1elFb18n_5g" target="UCrUqWho7jwvq7sXix2OOVfQ" label="1"></edge>
+      <edge id="46523" source="UC1_d5VapyDUBRtNaMe_4C_Q" target="UCxixIe0xN9rwDj22nvUi7Sw" label="4" weight="4.0"></edge>
+      <edge id="47894" source="UCPzJ8dk6v2qdoBeAIr_aSog" target="UCILe3HX__oup5csh-SeoguQ" label="1"></edge>
+      <edge id="47895" source="UCnkRuGIHl_NZMy20-EOLcWA" target="UCILe3HX__oup5csh-SeoguQ" label="1"></edge>
+      <edge id="48048" source="UC-f-1AlXUidGOFROVE4ubew" target="UC1a91kkfe5TATT_Pfv42MMg" label="1"></edge>
+      <edge id="48056" source="UCM-dd9_hHgpAEBgwzRSYN8A" target="UC1a91kkfe5TATT_Pfv42MMg" label="2" weight="2.0"></edge>
+      <edge id="48241" source="UCPWImhlObeQDbh3T2YdCDLA" target="UC0rZkAUynskxxNDzAxCZrqQ" label="1"></edge>
+      <edge id="48250" source="UCC8EcaOVyFAzJdTyUWRKnAA" target="UC0rZkAUynskxxNDzAxCZrqQ" label="2" weight="2.0"></edge>
+      <edge id="48265" source="UCD3weM3BPn_a6SBtX7GSn1w" target="UC0rZkAUynskxxNDzAxCZrqQ" label="1"></edge>
+      <edge id="48266" source="UC1_d5VapyDUBRtNaMe_4C_Q" target="UC0rZkAUynskxxNDzAxCZrqQ" label="2" weight="2.0"></edge>
+      <edge id="48288" source="UCj2iQPJp8e6_B6UzOTrG8aA" target="UC0rZkAUynskxxNDzAxCZrqQ" label="1"></edge>
+      <edge id="48782" source="UC_L8PKObDcvqYXwIoNIwujg" target="UCocQLQoo-tXOPym-gWq14DQ" label="1"></edge>
+      <edge id="50705" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UC3SH6NIhrgf6pRd-qlgt27Q" label="1"></edge>
+      <edge id="51021" source="UCOTUymTwxwwrQ_a3zCLWoxg" target="UCVMjreBo-XF0B-_-IqTCYAA" label="1"></edge>
+      <edge id="51022" source="UCxoOHao2751Ths7HE6RtQ6A" target="UCVMjreBo-XF0B-_-IqTCYAA" label="3" weight="3.0"></edge>
+      <edge id="51025" source="UCj2iQPJp8e6_B6UzOTrG8aA" target="UCVMjreBo-XF0B-_-IqTCYAA" label="1"></edge>
+      <edge id="51749" source="UCC8EcaOVyFAzJdTyUWRKnAA" target="UCKJ3g-TOtw1O__UzAq_NC6Q" label="1"></edge>
+      <edge id="53568" source="UCxoOHao2751Ths7HE6RtQ6A" target="UC6YVjJctnriUNX7wV-kdiIQ" label="2" weight="2.0"></edge>
+      <edge id="53577" source="UCPob5WKmdh7K_peC4hUjomQ" target="UC6YVjJctnriUNX7wV-kdiIQ" label="6" weight="6.0"></edge>
+      <edge id="53586" source="UCPWImhlObeQDbh3T2YdCDLA" target="UC6YVjJctnriUNX7wV-kdiIQ" label="3" weight="3.0"></edge>
+      <edge id="53590" source="UCq1whlNnqoblec7rndh5lpw" target="UC6YVjJctnriUNX7wV-kdiIQ" label="1"></edge>
+      <edge id="53614" source="UC1_d5VapyDUBRtNaMe_4C_Q" target="UC6YVjJctnriUNX7wV-kdiIQ" label="1"></edge>
+      <edge id="53616" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UC6YVjJctnriUNX7wV-kdiIQ" label="3" weight="3.0"></edge>
+      <edge id="53617" source="UC-Vp6frGxWYQ1elFb18n_5g" target="UC6YVjJctnriUNX7wV-kdiIQ" label="1"></edge>
+      <edge id="53688" source="UCoF9VBWX2cEeWp0YPLAssmA" target="UC6of7cMOaREXaYXMx9gxI2A" label="1"></edge>
+      <edge id="56120" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UCq6v85A5_8NXJOSSG_zgpzA" label="1"></edge>
+      <edge id="56134" source="UCnepfPShnpQt3ZhRbJmeGzA" target="UCq6v85A5_8NXJOSSG_zgpzA" label="2" weight="2.0"></edge>
+      <edge id="56146" source="UC_L8PKObDcvqYXwIoNIwujg" target="UCq6v85A5_8NXJOSSG_zgpzA" label="1"></edge>
+      <edge id="56147" source="UCj2iQPJp8e6_B6UzOTrG8aA" target="UCq6v85A5_8NXJOSSG_zgpzA" label="1"></edge>
+      <edge id="56149" source="UC6YVjJctnriUNX7wV-kdiIQ" target="UCq6v85A5_8NXJOSSG_zgpzA" label="1"></edge>
+      <edge id="56154" source="UCC8EcaOVyFAzJdTyUWRKnAA" target="UCq6v85A5_8NXJOSSG_zgpzA" label="1"></edge>
+      <edge id="56158" source="UCciI-XZ3Q23ef-KvKoly9wg" target="UCq6v85A5_8NXJOSSG_zgpzA" label="1"></edge>
+      <edge id="59224" source="UC1_d5VapyDUBRtNaMe_4C_Q" target="UCxoOHao2751Ths7HE6RtQ6A" label="2" weight="2.0"></edge>
+      <edge id="59232" source="UCoF9VBWX2cEeWp0YPLAssmA" target="UCxoOHao2751Ths7HE6RtQ6A" label="1"></edge>
+      <edge id="60076" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UCQG0dGbQ4AqEfpYvIrCQ1iQ" label="1"></edge>
+      <edge id="61152" source="UCC8EcaOVyFAzJdTyUWRKnAA" target="UCZFEQa4enp1bjLw0ZttF3lA" label="1"></edge>
+      <edge id="61370" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UC-f-1AlXUidGOFROVE4ubew" label="1"></edge>
+      <edge id="61388" source="UCO_h_l3CxDhP5EmH-JdgiwA" target="UC-f-1AlXUidGOFROVE4ubew" label="1"></edge>
+      <edge id="62936" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UC5gN_oPXJZpBmvfzMhIVj9w" label="1"></edge>
+      <edge id="63573" source="UC1_d5VapyDUBRtNaMe_4C_Q" target="UCLcDXzglgjIR9fcSp4uVOVg" label="3" weight="3.0"></edge>
+      <edge id="63575" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UCLcDXzglgjIR9fcSp4uVOVg" label="1"></edge>
+      <edge id="63584" source="UC0rZkAUynskxxNDzAxCZrqQ" target="UCLcDXzglgjIR9fcSp4uVOVg" label="1"></edge>
+      <edge id="63595" source="UCxoOHao2751Ths7HE6RtQ6A" target="UCLcDXzglgjIR9fcSp4uVOVg" label="1"></edge>
+      <edge id="63604" source="UCPob5WKmdh7K_peC4hUjomQ" target="UCLcDXzglgjIR9fcSp4uVOVg" label="1"></edge>
+      <edge id="63615" source="UCEXjUwgf5eQbv_3R4JCx-sQ" target="UCLcDXzglgjIR9fcSp4uVOVg" label="1"></edge>
+      <edge id="63618" source="UCj2iQPJp8e6_B6UzOTrG8aA" target="UCLcDXzglgjIR9fcSp4uVOVg" label="1"></edge>
+      <edge id="63622" source="UC6YVjJctnriUNX7wV-kdiIQ" target="UCLcDXzglgjIR9fcSp4uVOVg" label="1"></edge>
+      <edge id="63628" source="UCoF9VBWX2cEeWp0YPLAssmA" target="UCLcDXzglgjIR9fcSp4uVOVg" label="2" weight="2.0"></edge>
+      <edge id="63637" source="UCC8EcaOVyFAzJdTyUWRKnAA" target="UCLcDXzglgjIR9fcSp4uVOVg" label="2" weight="2.0"></edge>
+      <edge id="63642" source="UCO_h_l3CxDhP5EmH-JdgiwA" target="UCLcDXzglgjIR9fcSp4uVOVg" label="2" weight="2.0"></edge>
+      <edge id="64227" source="UCOajWg5eyQx8GMejvIbt9yg" target="UCcHrWgd8MMtMskpgkGz2QDg" label="1"></edge>
+      <edge id="65329" source="UCD3weM3BPn_a6SBtX7GSn1w" target="UCFisRyIXuFokrfvbCQQpdkg" label="1"></edge>
+      <edge id="65374" source="UC1a91kkfe5TATT_Pfv42MMg" target="UCOTUymTwxwwrQ_a3zCLWoxg" label="3" weight="3.0"></edge>
+      <edge id="65670" source="UCPWImhlObeQDbh3T2YdCDLA" target="UCciI-XZ3Q23ef-KvKoly9wg" label="1"></edge>
+      <edge id="66221" source="UCq1whlNnqoblec7rndh5lpw" target="UCsfMkhjdLHnSZ-F3Kk3b3QQ" label="1"></edge>
+      <edge id="66576" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UCcnD4FG_ePlzazmTiBUj9dA" label="1"></edge>
+      <edge id="66792" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UCEXjUwgf5eQbv_3R4JCx-sQ" label="1"></edge>
+      <edge id="72161" source="UCQG0dGbQ4AqEfpYvIrCQ1iQ" target="UCvv0WeXlyd363ExTK-okgqA" label="1"></edge>
+      <edge id="72167" source="UCcnD4FG_ePlzazmTiBUj9dA" target="UCvv0WeXlyd363ExTK-okgqA" label="1"></edge>
+      <edge id="72170" source="UC1_d5VapyDUBRtNaMe_4C_Q" target="UCvv0WeXlyd363ExTK-okgqA" label="1"></edge>
+      <edge id="72172" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UCvv0WeXlyd363ExTK-okgqA" label="1"></edge>
+      <edge id="72173" source="UCnkRuGIHl_NZMy20-EOLcWA" target="UCvv0WeXlyd363ExTK-okgqA" label="4" weight="4.0"></edge>
+      <edge id="72191" source="UCxoOHao2751Ths7HE6RtQ6A" target="UCvv0WeXlyd363ExTK-okgqA" label="2" weight="2.0"></edge>
+      <edge id="73162" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UCyhtYo0y1nut6OODuOohNMA" label="1"></edge>
+      <edge id="73174" source="UCC8EcaOVyFAzJdTyUWRKnAA" target="UCyhtYo0y1nut6OODuOohNMA" label="1"></edge>
+      <edge id="73176" source="UC0rZkAUynskxxNDzAxCZrqQ" target="UCyhtYo0y1nut6OODuOohNMA" label="1"></edge>
+      <edge id="82524" source="UC-Vp6frGxWYQ1elFb18n_5g" target="UCPdOx-L-vrNPymDAZXc3H0w" label="2" weight="2.0"></edge>
+      <edge id="82883" source="UCnkRuGIHl_NZMy20-EOLcWA" target="UCRUERNkNUgkwtjKeYrqF2bA" label="1"></edge>
+      <edge id="83087" source="UC1a91kkfe5TATT_Pfv42MMg" target="UCJrKmqGMT1r83xb6DYNZ1zA" label="1"></edge>
+      <edge id="84869" source="UCPWImhlObeQDbh3T2YdCDLA" target="UCPob5WKmdh7K_peC4hUjomQ" label="1"></edge>
+      <edge id="84876" source="UC84eykTK1iL2nAa5BNhWSOQ" target="UCPob5WKmdh7K_peC4hUjomQ" label="1"></edge>
+      <edge id="84884" source="UCoF9VBWX2cEeWp0YPLAssmA" target="UCPob5WKmdh7K_peC4hUjomQ" label="1"></edge>
+    </edges>
+  </graph>
+</gexf>
