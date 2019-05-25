@@ -29,7 +29,7 @@
     Используемые библиотеки: Gson, YouTube Data API, Gephi Toolkit, SaX,XmlPull  
     База данных: PostgreSQL
 
-####Текущий модуль отвечает за:
+#### Текущий модуль отвечает за:
 
 1.Загрузку данных (связь с модулем [YouTubeVideo](https://github.com/Snezzz/YouTubeVideo))  
 2.Построение графа по данным из БД (связь с модулем [YouTubeGetData](https://github.com/Snezzz/YouTubeGetData))
