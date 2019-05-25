@@ -13,7 +13,16 @@
             <artifactId>c3p0</artifactId>
             <version>0.9.5.2</version>
         </dependency>
-
+        <dependency>
+            <groupId>YouTubeVideo</groupId>
+            <artifactId>YouTubeVideo</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>YouTube_Data_Api</groupId>
+            <artifactId>YouTube_Data_Api</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
     </dependencies>
     <build>
